@@ -1,0 +1,7 @@
+﻿{
+    "SensorPath": "/gpu-nvidia/0/temperature/0",
+    "LINENotifyToken": "",
+    "MonitoringIntervalMS": 5000,
+    "TemperatureThreshold": 70,
+    "FailedNotifyIntervalS": 300
+}

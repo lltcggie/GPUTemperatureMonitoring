@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPUTemperatureMonitoring", "GPUTemperatureMonitoring\GPUTemperatureMonitoring.csproj", "{E1D50143-93C5-4585-8516-A3C2B465A444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1D50143-93C5-4585-8516-A3C2B465A444}.Debug|x64.ActiveCfg = Debug|x64
+		{E1D50143-93C5-4585-8516-A3C2B465A444}.Debug|x64.Build.0 = Debug|x64
+		{E1D50143-93C5-4585-8516-A3C2B465A444}.Release|x64.ActiveCfg = Release|x64
+		{E1D50143-93C5-4585-8516-A3C2B465A444}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B80A9E7-0F7F-4B03-9113-38A67896EEBB}
+	EndGlobalSection
+EndGlobal
